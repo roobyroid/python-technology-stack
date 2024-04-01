@@ -2,9 +2,9 @@
 input_string = input("Введите строку без пробелов: ")
 
 if input_string == input_string[::-1]:
-   print("yes")
+	print("yes")
 else:
-    print("no")
+	print("no")
 
 # Задание 2
 input_string = input("Введите строку: ")
